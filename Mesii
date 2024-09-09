@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Historia de Lionel Andrés Messi, el mejor futbolista del mundo">
+    <title>Historia de Lionel Messi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #000;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        .container {
+            width: 90%;
+            margin: 20px auto;
+            max-width: 1200px;
+        }
+        .section-title {
+            font-size: 2em;
+            margin-bottom: 10px;
+            color: #222;
+        }
+        .section-content {
+            line-height: 1.6;
+        }
+        .timeline {
+            margin: 30px 0;
+        }
+        .timeline-item {
+            background-color: #fff;
+            margin: 20px 0;
+            padding: 15px;
+            border-left: 5px solid #000;
+        }
+        .timeline-item h3 {
+            margin-top: 0;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+        footer {
+            background-color: #000;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Lionel Andrés Messi: La Leyenda del Fútbol</h1>
+    </header>
+
+    <div class="container">
+
+        <!-- Sección de biografía -->
+        <section id="biografia">
+            <h2 class="section-title">Biografía</h2>
+            <p class="section-content">
+                Lionel Andrés Messi, nacido el 24 de junio de 1987 en Rosario, Argentina, es considerado por muchos como el mejor futbolista de todos los tiempos. Desde una edad temprana, Messi mostró un talento extraordinario para el fútbol, lo que lo llevó a unirse a las categorías inferiores del FC Barcelona a los 13 años. A pesar de los desafíos médicos que enfrentó en su juventud, Messi nunca dejó de luchar y pronto se convirtió en la piedra angular del equipo catalán.
+            </p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Lionel_Messi_20180626.jpg" alt="Lionel Messi">
+        </section>
+
+        <!-- Sección de cronología -->
+        <section id="cronologia">
+            <h2 class="section-title">Cronología de su carrera</h2>
+
+            <div class="timeline">
+                <div class="timeline-item">
+                    <h3>2000: Llegada a La Masía</h3>
+                    <p>Lionel Messi se unió a las divisiones inferiores del FC Barcelona a los 13 años. A partir de este momento, comenzó su camino hacia la grandeza.</p>
+                </div>
+                <div class="timeline-item">
+                    <h3>2004: Debut en el Primer Equipo</h3>
+                    <p>Con solo 17 años, Messi debutó con el primer equipo del Barcelona el 16 de octubre de 2004, en un partido contra el RCD Espanyol.</p>
+                </div>
+                <div class="timeline-item">
+                    <h3>2009: El Triplete Histórico</h3>
+                    <p>En 2009, Messi fue parte fundamental del equipo que ganó el triplete (La Liga, la Copa del Rey y la UEFA Champions League).</p>
+                </div>
+                <div class="timeline-item">
+                    <h3>2012: Récord de Goles en un Año Natural</h3>
+                    <p>En 2012, Messi rompió el récord de más goles anotados en un año calendario, con 91 goles, superando el récord anterior de Gerd Müller.</p>
+                </div>
+                <div class="timeline-item">
+                    <h3>2021: Copa América con Argentina</h3>
+                    <p>Messi logró su primer gran título con la selección argentina al ganar la Copa América 2021, siendo el mejor jugador del torneo.</p>
+                </div>
+                <div class="timeline-item">
+                    <h3>2022: Ganador del Mundial</h3>
+                    <p>En diciembre de 2022, Messi alcanzó la cima del fútbol mundial al ganar la Copa del Mundo con Argentina en Qatar, consolidando su estatus como una leyenda.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Sección de logros individuales -->
+        <section id="logros">
+            <h2 class="section-title">Logros Individuales</h2>
+            <ul class="section-content">
+                <li>7 veces ganador del Balón de Oro.</li>
+                <li>Máximo goleador histórico del FC Barcelona.</li>
+                <li>Máximo goleador de la Liga Española (La Liga).</li>
+                <li>Máximo asistente en la historia del fútbol.</li>
+                <li>Máximo goleador de la selección argentina.</li>
+            </ul>
+        </section>
+
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <p>© 2024 Historia de Lionel Messi. Todos los derechos reservados.</p>
+    </footer>
+
+</body>
+</html>
